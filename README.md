@@ -1,8 +1,9 @@
-#Modelado Y Programación
-#Elizabeth Muñiz Rivas
+Modelado Y Programación
+
+Elizabeth Muñiz Rivas.
 
 #CurvaDelDragon
-#Calcula los giros de la curva del dragón en la iteración n 
+#Calcula los giros del fractal "la curva del dragón" en la iteración n 
 
 Para iniciar el programa ejecuta el archivo CurvaDelDragon.sh
 te pedirá que ingreses la ruta donde se encuentra el archivo
