@@ -3,7 +3,7 @@
 
 w = int(input("¿Qué iteración quieres calcular?: "))
 def giros(n):
-    'función recursiva para calcular el número de giros'
+    'función recursiva para calcular los giros'
     if n ==0:
         return []
     else:
